@@ -21,19 +21,19 @@ Setup
   
 Functionalities
 
-~ Custom User Model:
+- Custom User Model:
    - Customization of the User Model in Django.
-Custom UserModelAdmin:
+- Custom UserModelAdmin:
    - Configuration and customization of the User Model Admin interface.
-User Registration:
+- User Registration:
    - API endpoint for user registration.
-User Login:
+- User Login:
    - API endpoint for user login.
-Custom JSONRenderer:
+- Custom JSONRenderer:
    - Implementation of a custom JSONRenderer for data formatting.
-Implementing JWT:
+- Implementing JWT:
    - Usage of JSON Web Tokens for authentication.
-Accessing Logged User Data:
+- Accessing Logged User Data:
    - Retrieval of user-specific data upon successful login.
 
 
